@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Assets/chao.ico</ApplicationIcon>
+    <FnaGraphicsOnly>true</FnaGraphicsOnly>
+    <AllowedReferenceRelatedFileExtensions>.pdb;.xml;.pri</AllowedReferenceRelatedFileExtensions>
+  </PropertyGroup>
+  <Import Project="../../build/FnaNativeLibs.props" />
+  <ItemGroup>
+    <ProjectReference Include="../ChaoGarden.ChaoPresentation/ChaoGarden.ChaoPresentation.csproj" />
+    <ProjectReference Include="../ChaoGarden.Simulation/ChaoGarden.Simulation.csproj" />
+    <EmbeddedResource Include="Assets/chao.ico" LogicalName="DesktopChao.Icon" />
+  </ItemGroup>
+  <!-- Remove transitive audio/video content even when dependencies were evaluated by a solution build. -->
+  <Target Name="DesktopGraphicsOnlyOutput" AfterTargets="GetCopyToOutputDirectoryItems">
+    <ItemGroup>
+      <_SourceItemsToCopyToOutputDirectory Remove="@(_SourceItemsToCopyToOutputDirectory)" Condition="'%(Filename)' == 'FAudio' Or '%(Filename)' == 'libtheorafile' Or '%(Filename)%(Extension)' == 'FNA.dll.config'" />
+      <_SourceItemsToCopyToOutputDirectoryAlways Remove="@(_SourceItemsToCopyToOutputDirectoryAlways)" Condition="'%(Filename)' == 'FAudio' Or '%(Filename)' == 'libtheorafile' Or '%(Filename)%(Extension)' == 'FNA.dll.config'" />
+      <AllItemsFullPathWithTargetPath Remove="@(AllItemsFullPathWithTargetPath)" Condition="'%(Filename)' == 'FAudio' Or '%(Filename)' == 'libtheorafile' Or '%(Filename)%(Extension)' == 'FNA.dll.config'" />
+    </ItemGroup>
+  </Target>
+  <Target Name="DesktopGraphicsOnlyPublish" AfterTargets="ComputeResolvedFilesToPublishList">
+    <ItemGroup>
+      <ResolvedFileToPublish Remove="@(ResolvedFileToPublish)" Condition="'%(Filename)' == 'FAudio' Or '%(Filename)' == 'libtheorafile' Or '%(Filename)%(Extension)' == 'FNA.dll.config'" />
+    </ItemGroup>
+  </Target>
+</Project>

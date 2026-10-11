@@ -1,0 +1,7900 @@
+{
+  "Motions": [
+    {
+      "Motion": "alm_tati",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_syaburi",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nayamu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nayamu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nayamu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nayamu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hima",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 7,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hima",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hima",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 9,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hima",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hima",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 25.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusukusu_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 1.2,
+      "PlaySpeed": 0.006,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kusukusu_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.04,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hirameki",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hirameki",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akubi_suwari",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 16,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_akubi_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.06,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_akubi_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_sleep",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 19,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_sleep",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.07,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_suwari",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.06,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kosuri_eye",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_neru_utouto",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.07,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_neru_utouto",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 22,
+      "TransitionSpeed": -20,
+      "StartFrame": 5.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.18,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_utubuse",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 25,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.13,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_utubuse",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 31.0,
+      "PlaySpeed": 0.05,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_utubuse",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.13,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_dainoji",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 28,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_dainoji",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 29,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_dainoji",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.04,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_nobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_neru_pori_r",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 32,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_pori_r",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_pori_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_pori_l",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 35,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_pori_l",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_pori_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.2,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 13.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akubi",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 40,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akubi",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akubi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_okiru",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 43,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.09,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_okiru",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 44,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_okiru",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 45,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_okiru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 15.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.05,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_okiru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 22.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_osuwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.17,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_osuwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_pori",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 50,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_pori",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_pori",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_negaeri_l",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 53,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_negaeri_l",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.05,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_negaeri_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_negaeri_r",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 56,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_negaeri_r",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.05,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_negaeri_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_otakai_l",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 59,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.5,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_otakai_l",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.5,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.025,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_otakai_r",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 61,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.5,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_otakai_r",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.5,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.025,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 0.5,
+      "PlaySpeed": 0.01,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.03,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.05,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": -0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 24.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": -0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 21.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": -0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 28.0,
+      "EndFrame": 31.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_hima_neru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_neru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.04,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_neru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_neru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_neru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.01,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hima_utubuse",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 78,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.1,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_hima_utubuse",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_hima_utubuse",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_sit_down",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.14,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_sit_dowwwn",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_stand_up",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_stand_up",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nobi_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.11,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_neru_kubi",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 86,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_kubi",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_kubi",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 88,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_kubi",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_neru_kubi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_meso_neru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.01,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_meso_neru",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 90,
+      "TransitionSpeed": -20,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_meso_neru",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 90,
+      "TransitionSpeed": -20,
+      "StartFrame": 4.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_meso_neru",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 22.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwari_guta",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 3.5,
+      "PlaySpeed": 0.012,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_guta",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.02,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_guta",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 17.5,
+      "PlaySpeed": 0.006,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_guta",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.015,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_onsen",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.18,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_onsen",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 98,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 36.0,
+      "PlaySpeed": 0.01,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_aruki",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.23,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 24.0,
+      "EndFrame": 35.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sinobi",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tobotobo",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru_banzai",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 35.0,
+      "PlaySpeed": 0.3,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru_banzai",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 108,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.3,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru_banzai",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.3,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasiru_banzai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 24.0,
+      "EndFrame": 36.0,
+      "PlaySpeed": 0.3,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.07,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": -0.12,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": -0.06,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.07,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 116,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_haihai",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 15.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.07,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_skippu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_oikake",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.55,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_run",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.21,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_rism",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_rsim_b",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_run_stopped",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 123,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_run_stopped",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.3,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_run_stopped",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_aruku_okori",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 125,
+      "TransitionSpeed": -1,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_aruku_okori",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 125,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_aruku_yoroyoro",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 128,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_aruku_yoroyoro",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 30.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_dash",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tobu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_tobiagaru",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 130,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.25,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_up",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 133,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_up",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_up",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_down",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 136,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_down",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.0,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_jump_down",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_habatobi",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 139,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_habatobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_habatobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_habatobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_oboreru",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_oyogu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_oyogu",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 143,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_oyogu_umaku",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.26,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_ueoyogu",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 147,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_ueoyogu",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 147,
+      "TransitionSpeed": -7,
+      "StartFrame": 7.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_bataashi",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.1,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_croll",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_drift",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_doza",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.01,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_puha",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_puha",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.05,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_puha",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_noboru",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_noboru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_hardclimb",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_hardclimb",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_koke",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.18,
+      "Pose": 3
+    },
+    {
+      "Motion": "alm_kokeoki",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.17,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_korobu_siri",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_korobu_siri",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_goo",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 165,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.007,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.006,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 167,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.01,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_taberu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_taberu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taberu",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 171,
+      "TransitionSpeed": -7,
+      "StartFrame": 9.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_taberu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_taberu",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 171,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": -0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kyoro",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kyoro",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kyoro",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.0,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kyoro",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 22.0,
+      "EndFrame": 22.0,
+      "PlaySpeed": 0.0,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_pepepe",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_gatugatu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kunkun",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 181,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kunkun",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.08,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_kunkun",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_tumaru",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 184,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_tumaru",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_tumaru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_eat_suteru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kunkun_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hirou",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 189,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hirou",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 190,
+      "TransitionSpeed": -20,
+      "StartFrame": 6.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_motu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hakobu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_suteru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.9,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 13.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 197,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 20.5,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.5,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.01,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otosu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 22.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kaburu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kaburu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_throw",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_capcha",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.7,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_capcha",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 204,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.7,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_capcha",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 33.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_umareru_kyoro",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_umareru_pon",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_esajump",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 208,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_esajump",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.1,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_esajump",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_esajump",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 13.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_yurasu",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 212,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.8,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_yurasu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.8,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.01,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_yurasu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": -0.13,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_yurasu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_miage",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 216,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_miage",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.03,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_miage",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.03,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_miage",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.03,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_growingtree",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 220,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.22,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_growingtree",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 44.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_fruits_otosu",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 222,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_fruits_otosu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_fruits_otosu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_fruits_otosu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 23.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kokage",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.06,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kokage",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 227,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 8.8,
+      "PlaySpeed": 0.075,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kokage",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.8,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.002,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kokage",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": -0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 230,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 232,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 233,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 28.0,
+      "EndFrame": 36.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_scop",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 36.0,
+      "EndFrame": 39.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_johro",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 236,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_johro",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_johro",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 15.0,
+      "EndFrame": 22.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kyoro_upper",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kyoro_lower",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_osyaburi_up",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 241,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_osyaburi_up",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.08,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kusyami_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.1,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_kusyami_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.1,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_seki_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_seki_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_seki_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_seki_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.12,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_syakkuri_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_syakkuri_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_nade_glad",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_glad",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 251,
+      "TransitionSpeed": -8,
+      "StartFrame": 13.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_kimotii",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_tere",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_iya",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 255,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.8,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_iya",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.8,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.01,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nade_iya",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_kimotii",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 0.5,
+      "PlaySpeed": 0.015,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_kimotii",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 258,
+      "TransitionSpeed": -2,
+      "StartFrame": 2.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_kimotii",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 26.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_kimotii",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 27.0,
+      "EndFrame": 39.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_glad",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 262,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_glad",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_glad",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 264,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_glad",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.075,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 29.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 31.0,
+      "EndFrame": 35.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_daki_iya",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otiru",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.18,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_otiru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.18,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_otiru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.18,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_huttobu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.15,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_crush",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 4
+    },
+    {
+      "Motion": "alm_piyo",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 277,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_piyo",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_piyo",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_noise",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -20,
+      "StartFrame": 2.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kaoarau",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 281,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kaoarau",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_draming",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 283,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.21,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_draming",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.21,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_draming",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fire",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 286,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.24,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fire",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 287,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.24,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fire",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.24,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_togu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 290,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 291,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": -0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 292,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": -0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 294,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 295,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": -0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 5,
+      "NextAnimationIndex": 296,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_utau",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bokusingu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bokusingu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sumou",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sumou",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 301,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sumou",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 301,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.23,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_onara",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakuten",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 304,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakuten",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakuten",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 13.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_denguri",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 307,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_denguri",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_denguri",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 13.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_pyon",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hukkin",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 311,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hukkin",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 313,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 315,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 22.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 22.0,
+      "EndFrame": 35.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taisou",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 35.0,
+      "EndFrame": 52.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_crawching",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_crawching",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_crawching",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gorogoro",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 322,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gorogoro",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kureyon",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 324,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kureyon",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 17.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_jimen",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 325,
+      "TransitionSpeed": -10,
+      "StartFrame": 3.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_syabon",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 327,
+      "TransitionSpeed": -10,
+      "StartFrame": 4.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_syabon",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 14.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_doll",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_doll",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 16.0,
+      "EndFrame": 30.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_garagara",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hanabi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hopping",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 333,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hopping",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 5.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.25,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_houki",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_minicar",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_minicar",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 9.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_book",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 338,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_book",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 11.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_book",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 13.0,
+      "EndFrame": 27.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_piano",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_organ",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -10,
+      "StartFrame": 0.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_horse",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 343,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_horse",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_horse",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 345,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_horse",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_horse",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_maracas",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_maracas",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_maracas",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_maracas",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 21.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bell",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.23,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bell",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_dram",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_dram",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fue",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fue",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kasutanetto",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kasutanetto",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 357,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kasutanetto",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 357,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_rappa",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.5,
+      "PlaySpeed": 0.06,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_rappa",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.06,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_rappa",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.06,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sinbal",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -5,
+      "StartFrame": 5.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.05,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sinbal",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 363,
+      "TransitionSpeed": -5,
+      "StartFrame": 6.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sinbal",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 363,
+      "TransitionSpeed": -5,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_sinbal",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 363,
+      "TransitionSpeed": -5,
+      "StartFrame": 14.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tambarin",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 368,
+      "TransitionSpeed": -5,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tambarin",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -5,
+      "StartFrame": 6.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 370,
+      "TransitionSpeed": -5,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 372,
+      "TransitionSpeed": -5,
+      "StartFrame": 6.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": -0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 374,
+      "TransitionSpeed": -5,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": -0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 376,
+      "TransitionSpeed": -5,
+      "StartFrame": 11.9,
+      "EndFrame": 10.0,
+      "PlaySpeed": -0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_asobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 11.9,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 378,
+      "TransitionSpeed": -5,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 380,
+      "TransitionSpeed": -5,
+      "StartFrame": 15.9,
+      "EndFrame": 11.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 15.9,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_odoru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_music_tati",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_music_tati",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 384,
+      "TransitionSpeed": -5,
+      "StartFrame": 4.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_music_suwari",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_music_suwari",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_box_dance",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gogo_dance",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -20,
+      "StartFrame": 1.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.09,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gogo_dance",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 390,
+      "TransitionSpeed": -10,
+      "StartFrame": 17.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.09,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gogo_dance",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 388,
+      "TransitionSpeed": -10,
+      "StartFrame": 17.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.09,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hip",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -20,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otete_l",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otete_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otete_r",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_otete_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_ojigi",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.19,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hello",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_giveme_p",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_giveme_p",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_suri",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_ageru",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akusyu",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 403,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akusyu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_l",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_l",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 25.0,
+      "EndFrame": 31.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_r",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_r",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 23.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hisohiso_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 25.0,
+      "EndFrame": 31.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hold",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 413,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.5,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hold",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.5,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.08,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_naderu",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nee_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nee_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nee_p_l",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nee_p_r",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nozoku_l",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 420,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.5,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nozoku_l",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.5,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.05,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nozoku_r",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 422,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.5,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_nozoku_r",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.5,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.05,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_syaberu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_syaberu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 30.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 30.0,
+      "EndFrame": 36.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 36.0,
+      "EndFrame": 46.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_suwari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 425,
+      "TransitionSpeed": -40,
+      "StartFrame": 46.0,
+      "EndFrame": 64.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 28.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 28.0,
+      "EndFrame": 34.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 34.0,
+      "EndFrame": 44.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_talk_tati",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 432,
+      "TransitionSpeed": -40,
+      "StartFrame": 44.0,
+      "EndFrame": 62.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_unazuku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_unazuku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_punch",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_punch_yarare",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 29.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_genko",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_genko_yarare",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kick",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kick_yarare",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_akanbe",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bee",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.16,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_waaa",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_pui",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_pokapoka",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 13.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gan",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 453,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gan",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_panpan",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 455,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_panpan",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_panpan",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_senobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_senobi",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_laugh_suwari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 460,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.22,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_laugh_suwari",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.22,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_laugh_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 462,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_laugh_tati",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_glad_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 464,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_glad_tati",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakusyou",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 30.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakusyou",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_bakusyou",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 18.0,
+      "EndFrame": 30.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasyagu",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 469,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasyagu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hasyagu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusukusu_suwari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 472,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kusukusu_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.14,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kusukusu_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 474,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusukusu_tati",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusukusu_tati_b",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_dada",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.35,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_mojimoji",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_mojimoji",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_mojimoji",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": -0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_jidanda",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.18,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_atahuta",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 482,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.09,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_atahuta",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iya",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iya",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 26.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_butubutu",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_butubutu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_gakkari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hura",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 489,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_hura",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_guta",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 491,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tati_guta",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.01,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_jump_banzai",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_suwari_ijike",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 494,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_ijike",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 494,
+      "TransitionSpeed": -10,
+      "StartFrame": 7.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_ijike",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 496,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_suwari_ijike",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 24.0,
+      "EndFrame": 34.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_terrible",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 498,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_terrible",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_terrible",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_terrible",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": -0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_terrible",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 11.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tameiki",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 503,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tameiki",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.01,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tameiki",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 7.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tameiki_suwari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 506,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_tameiki_suwari",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 14.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.01,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_tameiki_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 15.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_no",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_no",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_ehhen_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_ehhen_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_ehhen_aruki",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iranai_tati",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iranai_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_angry_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 516,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 1.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_angry_tati",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 1.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_angry_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_biku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_jump_biku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.22,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_atozusari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 521,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_atozusari",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_atozusari",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 521,
+      "TransitionSpeed": -5,
+      "StartFrame": 20.0,
+      "EndFrame": 37.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 524,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_tati",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 526,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_tati",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 21.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 25.0,
+      "EndFrame": 32.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 529,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 21.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 25.0,
+      "EndFrame": 33.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_suwari",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 33.0,
+      "EndFrame": 38.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_cry_aruki",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_aruki",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 536,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_aruki",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 36.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_cry_aruki",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 534,
+      "TransitionSpeed": -40,
+      "StartFrame": 36.0,
+      "EndFrame": 40.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 539,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 2.0,
+      "PlaySpeed": -0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_naku",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 5.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 545,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 29.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 29.0,
+      "EndFrame": 32.0,
+      "PlaySpeed": 0.1,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_meso_suwari",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 550,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 16.0,
+      "EndFrame": 20.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 20.0,
+      "EndFrame": 29.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_suwari",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 29.0,
+      "EndFrame": 32.0,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 555,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.13,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 557,
+      "TransitionSpeed": -40,
+      "StartFrame": 8.0,
+      "EndFrame": 15.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 15.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 559,
+      "TransitionSpeed": -40,
+      "StartFrame": 19.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tereru_tati",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 24.0,
+      "EndFrame": 29.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_itai",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_itai",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 562,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_itai",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 17.0,
+      "EndFrame": 21.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_itai",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 23.0,
+      "EndFrame": 26.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_itai",
+      "LoopProperty": 2,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 33.0,
+      "EndFrame": 37.0,
+      "PlaySpeed": 0.08,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kusai",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 566,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusai",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusai",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 3.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.17,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_kusai",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 569,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 9.5,
+      "PlaySpeed": 0.17,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_kusai",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.5,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.003,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_iraira_tati",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 2.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iraira_tati",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 10.0,
+      "EndFrame": 14.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_iraira_tati_b",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.2,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_suwari_hakusyu",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 4.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_tati_hakusyu",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 3.0,
+      "PlaySpeed": 0.26,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_tail",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.12,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_fighting_taiki_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.15,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_taiki_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.12,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_aruki_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.42,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_kick02_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 9.0,
+      "PlaySpeed": 0.18,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_mawasigeri_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.14,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_pokapoka_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 12.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_punch_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.15,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_guru2_punch_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.19,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_piyo_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.24,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_yarare_back_s_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_yarare_back_m_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_yarare_back_l_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_yokeru_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.13,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_glad_tati_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.24,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_jump_banzai_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.2,
+      "Pose": 5
+    },
+    {
+      "Motion": "alm_cry_suwari_ncz",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 33.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_meso_suwari_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_sleep_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.08,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_akubi_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 19.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_taiki_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 16.0,
+      "PlaySpeed": 0.13,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_yarare_s_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 5.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_yarare_m_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_suwaru_yarare_l_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 11.0,
+      "PlaySpeed": 0.2,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_yokeru_l_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.16,
+      "Pose": 5
+    },
+    {
+      "Motion": "alm_yokeru_r_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.16,
+      "Pose": 5
+    },
+    {
+      "Motion": "m_okiagari_ncz",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 616,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.2,
+      "Pose": 2
+    },
+    {
+      "Motion": "l_okiagari_ncz",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 616,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "PlaySpeed": 0.14,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_haihai_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 8.0,
+      "PlaySpeed": 0.12,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_taiki_haihai_ncz",
+      "LoopProperty": 0,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 4.0,
+      "PlaySpeed": 0.1,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_yokeru_haihai_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 7.0,
+      "PlaySpeed": 0.16,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hai_tati_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 6.0,
+      "PlaySpeed": 0.15,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_hai_tati_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 6.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": -0.15,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_maskman_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 17.0,
+      "PlaySpeed": 0.19,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_maskman_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 0.0,
+      "PlaySpeed": 0.2,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_yuusyou_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 62.0,
+      "PlaySpeed": 0.18,
+      "Pose": 5
+    },
+    {
+      "Motion": "alm_hai_yuusyou_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 62.0,
+      "PlaySpeed": 0.18,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_gogo_dance_ncz",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 577,
+      "TransitionSpeed": -60,
+      "StartFrame": 0.0,
+      "EndFrame": 25.0,
+      "PlaySpeed": 0.15,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_breakdance_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 39.0,
+      "PlaySpeed": 0.2,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_taiki_ncz",
+      "LoopProperty": 3,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": 0,
+      "StartFrame": 0.0,
+      "EndFrame": 0.1,
+      "PlaySpeed": 0.1,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_sexybeam",
+      "LoopProperty": 6,
+      "NextAnimationIndex": 618,
+      "TransitionSpeed": 0,
+      "StartFrame": 0.0,
+      "EndFrame": 9.5,
+      "PlaySpeed": 0.14,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_sexybeam",
+      "LoopProperty": 4,
+      "NextAnimationIndex": 576,
+      "TransitionSpeed": -40,
+      "StartFrame": 9.5,
+      "EndFrame": 9.6,
+      "PlaySpeed": 0.005,
+      "Pose": 1
+    },
+    {
+      "Motion": "alm_meso_tati",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 34.0,
+      "PlaySpeed": 0.14,
+      "Pose": 0
+    },
+    {
+      "Motion": "alm_hai_yuusyou_ncz",
+      "LoopProperty": 7,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 12.0,
+      "EndFrame": 18.0,
+      "PlaySpeed": 0.16,
+      "Pose": 2
+    },
+    {
+      "Motion": "alm_manpuku",
+      "LoopProperty": 1,
+      "NextAnimationIndex": 0,
+      "TransitionSpeed": -40,
+      "StartFrame": 0.0,
+      "EndFrame": 24.0,
+      "PlaySpeed": 0.16,
+      "Pose": 1
+    }
+  ],
+  "Animations": [
+    {
+      "Clip": "alm_ageru",
+      "Category": "Social interactions",
+      "Label": "Offering / giving",
+      "NativeIndex": 401
+    },
+    {
+      "Clip": "alm_akanbe",
+      "Category": "Body actions",
+      "Label": "Sticking tongue out",
+      "NativeIndex": 447
+    },
+    {
+      "Clip": "alm_akubi",
+      "Category": "Sleeping",
+      "Label": "Yawning",
+      "NativeIndex": 39
+    },
+    {
+      "Clip": "alm_akubi_suwari",
+      "Category": "Sleeping extended",
+      "Label": "Yawning while sitting",
+      "NativeIndex": 15
+    },
+    {
+      "Clip": "alm_akusyu",
+      "Category": "Social interactions",
+      "Label": "Handshake",
+      "NativeIndex": 402
+    },
+    {
+      "Clip": "alm_angry_tati",
+      "Category": "Emotional reactions",
+      "Label": "Angry stomping in place",
+      "NativeIndex": 515
+    },
+    {
+      "Clip": "alm_aruki",
+      "Category": "Core locomotion",
+      "Label": "Walking start / loop",
+      "NativeIndex": 100
+    },
+    {
+      "Clip": "alm_aruki_ncz",
+      "Category": "Extended locomotion",
+      "Label": "Walking \u2014 baby variant",
+      "NativeIndex": 578
+    },
+    {
+      "Clip": "alm_aruku_okori",
+      "Category": "Extended locomotion",
+      "Label": "Walking angrily",
+      "NativeIndex": 125
+    },
+    {
+      "Clip": "alm_aruku_yoroyoro",
+      "Category": "Extended locomotion",
+      "Label": "Walking wobbly",
+      "NativeIndex": 127
+    },
+    {
+      "Clip": "alm_asobi",
+      "Category": "Activities",
+      "Label": "Playing with toy",
+      "NativeIndex": 369
+    },
+    {
+      "Clip": "alm_atahuta",
+      "Category": "Emotional reactions",
+      "Label": "Panicking / flustered",
+      "NativeIndex": 481
+    },
+    {
+      "Clip": "alm_atozusari",
+      "Category": "Extended locomotion",
+      "Label": "Backing away",
+      "NativeIndex": 520
+    },
+    {
+      "Clip": "alm_bakusyou",
+      "Category": "Emotional reactions",
+      "Label": "Burst out laughing",
+      "NativeIndex": 465
+    },
+    {
+      "Clip": "alm_bakuten",
+      "Category": "Extended locomotion",
+      "Label": "Backflip",
+      "NativeIndex": 303
+    },
+    {
+      "Clip": "alm_bataashi",
+      "Category": "Extended locomotion",
+      "Label": "Splashing / kicking in water",
+      "NativeIndex": 148
+    },
+    {
+      "Clip": "alm_bee",
+      "Category": "Body actions",
+      "Label": "Bee buzzing",
+      "NativeIndex": 448
+    },
+    {
+      "Clip": "alm_bell",
+      "Category": "Musical instruments",
+      "Label": "Playing bell",
+      "NativeIndex": 351
+    },
+    {
+      "Clip": "alm_biku",
+      "Category": "Emotional reactions",
+      "Label": "Startled / shocked",
+      "NativeIndex": 518
+    },
+    {
+      "Clip": "alm_bokusingu",
+      "Category": "Combat / karate",
+      "Label": "Boxing",
+      "NativeIndex": 297
+    },
+    {
+      "Clip": "alm_book",
+      "Category": "Toys / objects",
+      "Label": "Reading book",
+      "NativeIndex": 337
+    },
+    {
+      "Clip": "alm_box_dance",
+      "Category": "Dance extended",
+      "Label": "Box step dance",
+      "NativeIndex": 387
+    },
+    {
+      "Clip": "alm_breakdance_ncz",
+      "Category": "Dance extended",
+      "Label": "Breakdance \u2014 baby",
+      "NativeIndex": 615
+    },
+    {
+      "Clip": "alm_butubutu",
+      "Category": "Emotional reactions",
+      "Label": "Grumbling / muttering",
+      "NativeIndex": 485
+    },
+    {
+      "Clip": "alm_capcha",
+      "Category": "Body actions",
+      "Label": "Wobbling / shaking toy",
+      "NativeIndex": 202
+    },
+    {
+      "Clip": "alm_crawching",
+      "Category": "Extended locomotion",
+      "Label": "Crouching",
+      "NativeIndex": 318
+    },
+    {
+      "Clip": "alm_croll",
+      "Category": "Extended locomotion",
+      "Label": "Scrolling / somersault",
+      "NativeIndex": 149
+    },
+    {
+      "Clip": "alm_crush",
+      "Category": "Body actions",
+      "Label": "Crushed",
+      "NativeIndex": 275
+    },
+    {
+      "Clip": "alm_cry_aruki",
+      "Category": "Extended locomotion",
+      "Label": "Walking while crying",
+      "NativeIndex": 534
+    },
+    {
+      "Clip": "alm_cry_suwari",
+      "Category": "Crying extended",
+      "Label": "Crying while sitting",
+      "NativeIndex": 528
+    },
+    {
+      "Clip": "alm_cry_suwari_ncz",
+      "Category": "Crying extended",
+      "Label": "Crying sitting \u2014 baby",
+      "NativeIndex": 591
+    },
+    {
+      "Clip": "alm_cry_tati",
+      "Category": "Emotions / expressions",
+      "Label": "Crying start",
+      "NativeIndex": 523
+    },
+    {
+      "Clip": "alm_dada",
+      "Category": "Emotional reactions",
+      "Label": "Throwing tantrum on ground",
+      "NativeIndex": 476
+    },
+    {
+      "Clip": "alm_dainoji",
+      "Category": "Sleeping extended",
+      "Label": "Lying spread out",
+      "NativeIndex": 27
+    },
+    {
+      "Clip": "alm_daki_glad",
+      "Category": "Hugging / held reactions",
+      "Label": "Hugged \u2014 happy",
+      "NativeIndex": 261
+    },
+    {
+      "Clip": "alm_daki_iya",
+      "Category": "Hugging / held reactions",
+      "Label": "Hugged \u2014 dislike",
+      "NativeIndex": 265
+    },
+    {
+      "Clip": "alm_daki_kimotii",
+      "Category": "Hugging / held reactions",
+      "Label": "Hugged \u2014 comfortable",
+      "NativeIndex": 257
+    },
+    {
+      "Clip": "alm_dash",
+      "Category": "Extended locomotion",
+      "Label": "Dashing / sprint",
+      "NativeIndex": 129
+    },
+    {
+      "Clip": "alm_denguri",
+      "Category": "Extended locomotion",
+      "Label": "Forward roll",
+      "NativeIndex": 306
+    },
+    {
+      "Clip": "alm_doll",
+      "Category": "Toys / objects",
+      "Label": "Playing with doll",
+      "NativeIndex": 328
+    },
+    {
+      "Clip": "alm_doza",
+      "Category": "Sleeping extended",
+      "Label": "Sitting slumped",
+      "NativeIndex": 151
+    },
+    {
+      "Clip": "alm_dram",
+      "Category": "Musical instruments",
+      "Label": "Playing drum",
+      "NativeIndex": 353
+    },
+    {
+      "Clip": "alm_draming",
+      "Category": "Musical instruments",
+      "Label": "Drumming loop",
+      "NativeIndex": 282
+    },
+    {
+      "Clip": "alm_drift",
+      "Category": "Extended locomotion",
+      "Label": "Drifting / sliding",
+      "NativeIndex": 150
+    },
+    {
+      "Clip": "alm_eat_gatugatu",
+      "Category": "Eating",
+      "Label": "Fast eating loop",
+      "NativeIndex": 179
+    },
+    {
+      "Clip": "alm_eat_kunkun",
+      "Category": "Eating extended",
+      "Label": "Eating \u2014 sniffing food",
+      "NativeIndex": 180
+    },
+    {
+      "Clip": "alm_eat_kyoro",
+      "Category": "Eating",
+      "Label": "Normal eating loop",
+      "NativeIndex": 174
+    },
+    {
+      "Clip": "alm_eat_pepepe",
+      "Category": "Eating extended",
+      "Label": "Eating \u2014 spitting out / rejecting",
+      "NativeIndex": 178
+    },
+    {
+      "Clip": "alm_eat_suteru",
+      "Category": "Eating extended",
+      "Label": "Eating \u2014 throwing away food",
+      "NativeIndex": 186
+    },
+    {
+      "Clip": "alm_eat_tumaru",
+      "Category": "Eating extended",
+      "Label": "Eating \u2014 food stuck",
+      "NativeIndex": 183
+    },
+    {
+      "Clip": "alm_ehhen_aruki",
+      "Category": "Extended locomotion",
+      "Label": "Proud walk",
+      "NativeIndex": 512
+    },
+    {
+      "Clip": "alm_ehhen_tati",
+      "Category": "Emotional reactions",
+      "Label": "Proud standing",
+      "NativeIndex": 510
+    },
+    {
+      "Clip": "alm_esajump",
+      "Category": "Eating extended",
+      "Label": "Jumping for food",
+      "NativeIndex": 207
+    },
+    {
+      "Clip": "alm_fighting_taiki_ncz",
+      "Category": "Combat / karate",
+      "Label": "Fighting stance \u2014 baby",
+      "NativeIndex": 576
+    },
+    {
+      "Clip": "alm_fire",
+      "Category": "Body actions",
+      "Label": "Fire breathing",
+      "NativeIndex": 285
+    },
+    {
+      "Clip": "alm_fruits_otosu",
+      "Category": "Body actions",
+      "Label": "Shaking tree for fruit",
+      "NativeIndex": 221
+    },
+    {
+      "Clip": "alm_fue",
+      "Category": "Musical instruments",
+      "Label": "Playing flute",
+      "NativeIndex": 355
+    },
+    {
+      "Clip": "alm_gakkari",
+      "Category": "Emotional reactions",
+      "Label": "Disappointed",
+      "NativeIndex": 487
+    },
+    {
+      "Clip": "alm_gan",
+      "Category": "Body actions",
+      "Label": "Frustrated",
+      "NativeIndex": 452
+    },
+    {
+      "Clip": "alm_garagara",
+      "Category": "Toys / objects",
+      "Label": "Playing with rattle",
+      "NativeIndex": 330
+    },
+    {
+      "Clip": "alm_genko",
+      "Category": "Combat / karate",
+      "Label": "Fist pumping",
+      "NativeIndex": 443
+    },
+    {
+      "Clip": "alm_genko_yarare",
+      "Category": "Combat / karate",
+      "Label": "Hit reaction from fist",
+      "NativeIndex": 444
+    },
+    {
+      "Clip": "alm_giveme_p",
+      "Category": "Social interactions",
+      "Label": "Give me gesture",
+      "NativeIndex": 398
+    },
+    {
+      "Clip": "alm_glad_tati",
+      "Category": "Emotional reactions",
+      "Label": "Delighted standing",
+      "NativeIndex": 463
+    },
+    {
+      "Clip": "alm_glad_tati_ncz",
+      "Category": "Emotional reactions",
+      "Label": "Delighted \u2014 baby",
+      "NativeIndex": 589
+    },
+    {
+      "Clip": "alm_gogo_dance",
+      "Category": "Emotions / expressions",
+      "Label": "Happy dance",
+      "NativeIndex": 388
+    },
+    {
+      "Clip": "alm_gogo_dance_ncz",
+      "Category": "Dance extended",
+      "Label": "Dance \u2014 baby",
+      "NativeIndex": 614
+    },
+    {
+      "Clip": "alm_goo",
+      "Category": "Body actions",
+      "Label": "Smug / rock paper scissors",
+      "NativeIndex": 163
+    },
+    {
+      "Clip": "alm_gorogoro",
+      "Category": "Body actions",
+      "Label": "Spinning around",
+      "NativeIndex": 321
+    },
+    {
+      "Clip": "alm_growingtree",
+      "Category": "Body actions",
+      "Label": "Growing tree",
+      "NativeIndex": 219
+    },
+    {
+      "Clip": "alm_guru2_punch_ncz",
+      "Category": "Combat / karate",
+      "Label": "Spinning punch \u2014 baby",
+      "NativeIndex": 583
+    },
+    {
+      "Clip": "alm_habatobi",
+      "Category": "Extended locomotion",
+      "Label": "Long jump",
+      "NativeIndex": 138
+    },
+    {
+      "Clip": "alm_hai_tati_ncz",
+      "Category": "Race / victory",
+      "Label": "Standing on tiptoe \u2014 baby",
+      "NativeIndex": 608
+    },
+    {
+      "Clip": "alm_hai_yuusyou_ncz",
+      "Category": "Race / victory",
+      "Label": "Victory pose \u2014 baby",
+      "NativeIndex": 613
+    },
+    {
+      "Clip": "alm_haihai",
+      "Category": "Movement variants",
+      "Label": "Crawling loop",
+      "NativeIndex": 110
+    },
+    {
+      "Clip": "alm_haihai_ncz",
+      "Category": "Extended locomotion",
+      "Label": "Crawling \u2014 baby variant",
+      "NativeIndex": 605
+    },
+    {
+      "Clip": "alm_hakobu",
+      "Category": "Extended locomotion",
+      "Label": "Carrying object",
+      "NativeIndex": 191
+    },
+    {
+      "Clip": "alm_hanabi",
+      "Category": "Toys / objects",
+      "Label": "Playing with sparkler/fireworks",
+      "NativeIndex": 331
+    },
+    {
+      "Clip": "alm_hardclimb",
+      "Category": "Extended locomotion",
+      "Label": "Hard climbing",
+      "NativeIndex": 157
+    },
+    {
+      "Clip": "alm_hasiru",
+      "Category": "Core locomotion",
+      "Label": "Walking to running transition",
+      "NativeIndex": 101
+    },
+    {
+      "Clip": "alm_hasiru_banzai",
+      "Category": "Extended locomotion",
+      "Label": "Running with arms up",
+      "NativeIndex": 106
+    },
+    {
+      "Clip": "alm_hasyagu",
+      "Category": "Emotional reactions",
+      "Label": "Frolicking happily",
+      "NativeIndex": 468
+    },
+    {
+      "Clip": "alm_hello",
+      "Category": "Emotions / expressions",
+      "Label": "Waving hello",
+      "NativeIndex": 397
+    },
+    {
+      "Clip": "alm_hima_neru",
+      "Category": "Sleeping extended",
+      "Label": "Idle sleeping \u2014 bored lying",
+      "NativeIndex": 72
+    },
+    {
+      "Clip": "alm_hima_suwari",
+      "Category": "Core locomotion",
+      "Label": "Sitting idle loop",
+      "NativeIndex": 62
+    },
+    {
+      "Clip": "alm_hima_utubuse",
+      "Category": "Other",
+      "Label": "alm_hima_utubuse",
+      "NativeIndex": 77
+    },
+    {
+      "Clip": "alm_hip",
+      "Category": "Body actions",
+      "Label": "Hip shake",
+      "NativeIndex": 391
+    },
+    {
+      "Clip": "alm_hirameki",
+      "Category": "Emotional reactions",
+      "Label": "Idea / lightbulb moment",
+      "NativeIndex": 13
+    },
+    {
+      "Clip": "alm_hirou",
+      "Category": "Social interactions",
+      "Label": "Picking up item",
+      "NativeIndex": 188
+    },
+    {
+      "Clip": "alm_hisohiso_l",
+      "Category": "Social interactions",
+      "Label": "Whispering left",
+      "NativeIndex": 404
+    },
+    {
+      "Clip": "alm_hisohiso_r",
+      "Category": "Social interactions",
+      "Label": "Whispering right",
+      "NativeIndex": 408
+    },
+    {
+      "Clip": "alm_hold",
+      "Category": "Player interaction",
+      "Label": "Picked up / held by player",
+      "NativeIndex": 412
+    },
+    {
+      "Clip": "alm_hopping",
+      "Category": "Extended locomotion",
+      "Label": "Hopping",
+      "NativeIndex": 332
+    },
+    {
+      "Clip": "alm_horse",
+      "Category": "Toys / objects",
+      "Label": "Riding horse toy",
+      "NativeIndex": 342
+    },
+    {
+      "Clip": "alm_houki",
+      "Category": "Toys / objects",
+      "Label": "Sweeping with broom",
+      "NativeIndex": 334
+    },
+    {
+      "Clip": "alm_hukkin",
+      "Category": "Body actions",
+      "Label": "Sit-ups",
+      "NativeIndex": 310
+    },
+    {
+      "Clip": "alm_huttobu",
+      "Category": "Jumping",
+      "Label": "Launching upward",
+      "NativeIndex": 274
+    },
+    {
+      "Clip": "alm_iraira_tati",
+      "Category": "Emotional reactions",
+      "Label": "Irritated standing",
+      "NativeIndex": 570
+    },
+    {
+      "Clip": "alm_iraira_tati_b",
+      "Category": "Emotional reactions",
+      "Label": "Irritated variant B",
+      "NativeIndex": 572
+    },
+    {
+      "Clip": "alm_iranai_tati",
+      "Category": "Emotional reactions",
+      "Label": "Rejecting / refusing",
+      "NativeIndex": 513
+    },
+    {
+      "Clip": "alm_itai",
+      "Category": "Emotional reactions",
+      "Label": "Pain / ouch",
+      "NativeIndex": 560
+    },
+    {
+      "Clip": "alm_iya",
+      "Category": "Emotional reactions",
+      "Label": "Dislike / iya",
+      "NativeIndex": 483
+    },
+    {
+      "Clip": "alm_jidanda",
+      "Category": "Emotions / expressions",
+      "Label": "Angry tantrum",
+      "NativeIndex": 480
+    },
+    {
+      "Clip": "alm_jimen",
+      "Category": "Body actions",
+      "Label": "Stamping ground",
+      "NativeIndex": 325
+    },
+    {
+      "Clip": "alm_johro",
+      "Category": "Toys / objects",
+      "Label": "Watering with can",
+      "NativeIndex": 235
+    },
+    {
+      "Clip": "alm_jump_banzai",
+      "Category": "Jumping",
+      "Label": "Jump with arms up",
+      "NativeIndex": 492
+    },
+    {
+      "Clip": "alm_jump_banzai_ncz",
+      "Category": "Jumping",
+      "Label": "Jump with arms up \u2014 baby",
+      "NativeIndex": 590
+    },
+    {
+      "Clip": "alm_jump_biku",
+      "Category": "Jumping",
+      "Label": "Startled jump",
+      "NativeIndex": 519
+    },
+    {
+      "Clip": "alm_jump_down",
+      "Category": "Jumping",
+      "Label": "Jump down / land",
+      "NativeIndex": 135
+    },
+    {
+      "Clip": "alm_jump_up",
+      "Category": "Jumping",
+      "Label": "Jump up",
+      "NativeIndex": 132
+    },
+    {
+      "Clip": "alm_kaburu",
+      "Category": "Toys / objects",
+      "Label": "Wearing hat / putting on",
+      "NativeIndex": 199
+    },
+    {
+      "Clip": "alm_kaoarau",
+      "Category": "Activities",
+      "Label": "Grooming / cleaning self",
+      "NativeIndex": 280
+    },
+    {
+      "Clip": "alm_kasutanetto",
+      "Category": "Musical instruments",
+      "Label": "Playing castanets",
+      "NativeIndex": 357
+    },
+    {
+      "Clip": "alm_kick",
+      "Category": "Combat / karate",
+      "Label": "Kicking",
+      "NativeIndex": 445
+    },
+    {
+      "Clip": "alm_kick02_ncz",
+      "Category": "Combat / karate",
+      "Label": "Kicking \u2014 baby",
+      "NativeIndex": 579
+    },
+    {
+      "Clip": "alm_kick_yarare",
+      "Category": "Combat / karate",
+      "Label": "Kick hit reaction",
+      "NativeIndex": 446
+    },
+    {
+      "Clip": "alm_kokage",
+      "Category": "Body actions",
+      "Label": "Looking at ground",
+      "NativeIndex": 225
+    },
+    {
+      "Clip": "alm_koke",
+      "Category": "Falling",
+      "Label": "Falling end / landing",
+      "NativeIndex": 159
+    },
+    {
+      "Clip": "alm_kokeoki",
+      "Category": "Body actions",
+      "Label": "Getting up from fall",
+      "NativeIndex": 160
+    },
+    {
+      "Clip": "alm_korobu_siri",
+      "Category": "Body actions",
+      "Label": "Falling on butt",
+      "NativeIndex": 161
+    },
+    {
+      "Clip": "alm_kosuri_eye",
+      "Category": "Body actions",
+      "Label": "Rubbing eyes",
+      "NativeIndex": 21
+    },
+    {
+      "Clip": "alm_kunkun_tati",
+      "Category": "Eating extended",
+      "Label": "Sniffing while standing",
+      "NativeIndex": 187
+    },
+    {
+      "Clip": "alm_kureyon",
+      "Category": "Activities",
+      "Label": "Drawing on ground",
+      "NativeIndex": 323
+    },
+    {
+      "Clip": "alm_kusai",
+      "Category": "Emotional reactions",
+      "Label": "Bad smell reaction",
+      "NativeIndex": 565
+    },
+    {
+      "Clip": "alm_kusukusu_suwari",
+      "Category": "Emotional reactions",
+      "Label": "Giggling while sitting",
+      "NativeIndex": 11
+    },
+    {
+      "Clip": "alm_kusukusu_tati",
+      "Category": "Emotional reactions",
+      "Label": "Giggling while standing",
+      "NativeIndex": 473
+    },
+    {
+      "Clip": "alm_kusukusu_tati_b",
+      "Category": "Emotional reactions",
+      "Label": "Giggling variant B",
+      "NativeIndex": 475
+    },
+    {
+      "Clip": "alm_kusyami_suwari",
+      "Category": "Body actions",
+      "Label": "Sneezing sitting",
+      "NativeIndex": 242
+    },
+    {
+      "Clip": "alm_kusyami_tati",
+      "Category": "Body actions",
+      "Label": "Sneezing standing",
+      "NativeIndex": 243
+    },
+    {
+      "Clip": "alm_kyoro_lower",
+      "Category": "Social interactions",
+      "Label": "Looking down",
+      "NativeIndex": 239
+    },
+    {
+      "Clip": "alm_kyoro_upper",
+      "Category": "Emotions / expressions",
+      "Label": "Looking around",
+      "NativeIndex": 238
+    },
+    {
+      "Clip": "alm_laugh_suwari",
+      "Category": "Emotional reactions",
+      "Label": "Laughing while sitting",
+      "NativeIndex": 459
+    },
+    {
+      "Clip": "alm_laugh_tati",
+      "Category": "Emotional reactions",
+      "Label": "Laughing while standing",
+      "NativeIndex": 461
+    },
+    {
+      "Clip": "alm_manpuku",
+      "Category": "Eating",
+      "Label": "Eating end - satisfied",
+      "NativeIndex": 164
+    },
+    {
+      "Clip": "alm_maracas",
+      "Category": "Musical instruments",
+      "Label": "Playing maracas",
+      "NativeIndex": 347
+    },
+    {
+      "Clip": "alm_maskman_ncz",
+      "Category": "Combat / karate",
+      "Label": "Mask hero pose \u2014 baby",
+      "NativeIndex": 610
+    },
+    {
+      "Clip": "alm_mawasigeri_ncz",
+      "Category": "Combat / karate",
+      "Label": "Spinning kick \u2014 baby",
+      "NativeIndex": 580
+    },
+    {
+      "Clip": "alm_meso_neru",
+      "Category": "Emotional reactions",
+      "Label": "Crying while sleeping",
+      "NativeIndex": 90
+    },
+    {
+      "Clip": "alm_meso_suwari",
+      "Category": "Emotional reactions",
+      "Label": "Crying while sitting",
+      "NativeIndex": 549
+    },
+    {
+      "Clip": "alm_meso_suwari_ncz",
+      "Category": "Emotional reactions",
+      "Label": "Crying while sitting \u2014 baby",
+      "NativeIndex": 592
+    },
+    {
+      "Clip": "alm_meso_tati",
+      "Category": "Emotional reactions",
+      "Label": "Sobbing standing",
+      "NativeIndex": 544
+    },
+    {
+      "Clip": "alm_miage",
+      "Category": "Social interactions",
+      "Label": "Looking up",
+      "NativeIndex": 215
+    },
+    {
+      "Clip": "alm_minicar",
+      "Category": "Toys / objects",
+      "Label": "Playing with minicar",
+      "NativeIndex": 335
+    },
+    {
+      "Clip": "alm_mojimoji",
+      "Category": "Emotional reactions",
+      "Label": "Fidgeting shyly",
+      "NativeIndex": 477
+    },
+    {
+      "Clip": "alm_music_suwari",
+      "Category": "Musical instruments",
+      "Label": "Sitting music",
+      "NativeIndex": 385
+    },
+    {
+      "Clip": "alm_music_tati",
+      "Category": "Activities",
+      "Label": "Playing music instrument",
+      "NativeIndex": 383
+    },
+    {
+      "Clip": "alm_nade_glad",
+      "Category": "Petting extended",
+      "Label": "Petting \u2014 delighted",
+      "NativeIndex": 250
+    },
+    {
+      "Clip": "alm_nade_iya",
+      "Category": "Petting reactions",
+      "Label": "Petting reaction annoyed",
+      "NativeIndex": 254
+    },
+    {
+      "Clip": "alm_nade_kimotii",
+      "Category": "Petting reactions",
+      "Label": "Petting reaction happy",
+      "NativeIndex": 252
+    },
+    {
+      "Clip": "alm_nade_tere",
+      "Category": "Petting extended",
+      "Label": "Petting \u2014 shy / embarrassed",
+      "NativeIndex": 253
+    },
+    {
+      "Clip": "alm_naderu",
+      "Category": "Petting extended",
+      "Label": "Petting someone else",
+      "NativeIndex": 414
+    },
+    {
+      "Clip": "alm_naku",
+      "Category": "Emotions / expressions",
+      "Label": "Crying loop",
+      "NativeIndex": 538
+    },
+    {
+      "Clip": "alm_nayamu",
+      "Category": "Body actions",
+      "Label": "Nagging / whining",
+      "NativeIndex": 2
+    },
+    {
+      "Clip": "alm_nee_l",
+      "Category": "Social interactions",
+      "Label": "Beckoning left",
+      "NativeIndex": 415
+    },
+    {
+      "Clip": "alm_nee_p_l",
+      "Category": "Social interactions",
+      "Label": "Beckoning politely left",
+      "NativeIndex": 417
+    },
+    {
+      "Clip": "alm_nee_p_r",
+      "Category": "Social interactions",
+      "Label": "Beckoning politely right",
+      "NativeIndex": 418
+    },
+    {
+      "Clip": "alm_nee_r",
+      "Category": "Social interactions",
+      "Label": "Beckoning right",
+      "NativeIndex": 416
+    },
+    {
+      "Clip": "alm_negaeri_l",
+      "Category": "Sleeping extended",
+      "Label": "Rolling over left in sleep",
+      "NativeIndex": 52
+    },
+    {
+      "Clip": "alm_negaeri_r",
+      "Category": "Sleeping extended",
+      "Label": "Rolling over right in sleep",
+      "NativeIndex": 55
+    },
+    {
+      "Clip": "alm_neru",
+      "Category": "Sleeping",
+      "Label": "Lying down transition",
+      "NativeIndex": 37
+    },
+    {
+      "Clip": "alm_neru_kubi",
+      "Category": "Sleeping extended",
+      "Label": "Sleeping \u2014 head bob",
+      "NativeIndex": 85
+    },
+    {
+      "Clip": "alm_neru_pori_l",
+      "Category": "Sleeping extended",
+      "Label": "Sleeping \u2014 scratch left",
+      "NativeIndex": 34
+    },
+    {
+      "Clip": "alm_neru_pori_r",
+      "Category": "Sleeping extended",
+      "Label": "Sleeping \u2014 scratch right",
+      "NativeIndex": 31
+    },
+    {
+      "Clip": "alm_neru_suwari",
+      "Category": "Sleeping extended",
+      "Label": "Sleeping while sitting",
+      "NativeIndex": 20
+    },
+    {
+      "Clip": "alm_neru_utouto",
+      "Category": "Sleeping extended",
+      "Label": "Sleeping \u2014 dozing off",
+      "NativeIndex": 22
+    },
+    {
+      "Clip": "alm_no",
+      "Category": "Head gestures",
+      "Label": "Head shake disagreement",
+      "NativeIndex": 508
+    },
+    {
+      "Clip": "alm_nobi",
+      "Category": "Emotional reactions",
+      "Label": "Stretching / yawn standing",
+      "NativeIndex": 30
+    },
+    {
+      "Clip": "alm_nobi_tati",
+      "Category": "Activities",
+      "Label": "Stretching",
+      "NativeIndex": 84
+    },
+    {
+      "Clip": "alm_noboru",
+      "Category": "Extended locomotion",
+      "Label": "Climbing",
+      "NativeIndex": 155
+    },
+    {
+      "Clip": "alm_noise",
+      "Category": "Emotional reactions",
+      "Label": "Scared noise",
+      "NativeIndex": 279
+    },
+    {
+      "Clip": "alm_nozoku_l",
+      "Category": "Social interactions",
+      "Label": "Peeking left",
+      "NativeIndex": 419
+    },
+    {
+      "Clip": "alm_nozoku_r",
+      "Category": "Social interactions",
+      "Label": "Peeking right",
+      "NativeIndex": 421
+    },
+    {
+      "Clip": "alm_oboreru",
+      "Category": "Extended locomotion",
+      "Label": "Drowning / struggling in water",
+      "NativeIndex": 142
+    },
+    {
+      "Clip": "alm_odoru",
+      "Category": "Dance extended",
+      "Label": "Generic dancing",
+      "NativeIndex": 377
+    },
+    {
+      "Clip": "alm_oikake",
+      "Category": "Extended locomotion",
+      "Label": "Chasing / pursuing",
+      "NativeIndex": 118
+    },
+    {
+      "Clip": "alm_ojigi",
+      "Category": "Emotional reactions",
+      "Label": "Bowing",
+      "NativeIndex": 396
+    },
+    {
+      "Clip": "alm_okiru",
+      "Category": "Sleeping",
+      "Label": "Waking up transition",
+      "NativeIndex": 42
+    },
+    {
+      "Clip": "alm_onara",
+      "Category": "Body actions",
+      "Label": "Farting",
+      "NativeIndex": 302
+    },
+    {
+      "Clip": "alm_onsen",
+      "Category": "Body actions",
+      "Label": "Onsen / hot spring soak",
+      "NativeIndex": 98
+    },
+    {
+      "Clip": "alm_organ",
+      "Category": "Musical instruments",
+      "Label": "Playing organ",
+      "NativeIndex": 341
+    },
+    {
+      "Clip": "alm_osuwari",
+      "Category": "Core locomotion",
+      "Label": "Sitting down transition",
+      "NativeIndex": 47
+    },
+    {
+      "Clip": "alm_osyaburi_up",
+      "Category": "Body actions",
+      "Label": "Sucking thumb / pacifier up",
+      "NativeIndex": 240
+    },
+    {
+      "Clip": "alm_otakai_l",
+      "Category": "Social interactions",
+      "Label": "Reaching up left",
+      "NativeIndex": 58
+    },
+    {
+      "Clip": "alm_otakai_r",
+      "Category": "Social interactions",
+      "Label": "Reaching up right",
+      "NativeIndex": 60
+    },
+    {
+      "Clip": "alm_otete_l",
+      "Category": "Social interactions",
+      "Label": "Extending hand left",
+      "NativeIndex": 392
+    },
+    {
+      "Clip": "alm_otete_r",
+      "Category": "Social interactions",
+      "Label": "Extending hand right",
+      "NativeIndex": 394
+    },
+    {
+      "Clip": "alm_otiru",
+      "Category": "Falling",
+      "Label": "Falling start",
+      "NativeIndex": 271
+    },
+    {
+      "Clip": "alm_otosu",
+      "Category": "Social interactions",
+      "Label": "Dropping item",
+      "NativeIndex": 193
+    },
+    {
+      "Clip": "alm_oyogu",
+      "Category": "Movement variants",
+      "Label": "Swimming start",
+      "NativeIndex": 143
+    },
+    {
+      "Clip": "alm_oyogu_umaku",
+      "Category": "Extended locomotion",
+      "Label": "Swimming well",
+      "NativeIndex": 145
+    },
+    {
+      "Clip": "alm_panpan",
+      "Category": "Body actions",
+      "Label": "Applauding / panpan",
+      "NativeIndex": 454
+    },
+    {
+      "Clip": "alm_piano",
+      "Category": "Musical instruments",
+      "Label": "Playing piano",
+      "NativeIndex": 340
+    },
+    {
+      "Clip": "alm_piyo",
+      "Category": "Body actions",
+      "Label": "Tripped dizzy",
+      "NativeIndex": 276
+    },
+    {
+      "Clip": "alm_piyo_ncz",
+      "Category": "Body actions",
+      "Label": "Tripped dizzy \u2014 baby",
+      "NativeIndex": 584
+    },
+    {
+      "Clip": "alm_pokapoka",
+      "Category": "Combat / karate",
+      "Label": "Flurry of hits",
+      "NativeIndex": 451
+    },
+    {
+      "Clip": "alm_pokapoka_ncz",
+      "Category": "Combat / karate",
+      "Label": "Flurry \u2014 baby",
+      "NativeIndex": 581
+    },
+    {
+      "Clip": "alm_puha",
+      "Category": "Extended locomotion",
+      "Label": "Floating on water",
+      "NativeIndex": 152
+    },
+    {
+      "Clip": "alm_pui",
+      "Category": "Emotional reactions",
+      "Label": "Sulking / pouting",
+      "NativeIndex": 450
+    },
+    {
+      "Clip": "alm_punch",
+      "Category": "Combat / karate",
+      "Label": "Punching",
+      "NativeIndex": 441
+    },
+    {
+      "Clip": "alm_punch_ncz",
+      "Category": "Combat / karate",
+      "Label": "Punching \u2014 baby",
+      "NativeIndex": 582
+    },
+    {
+      "Clip": "alm_punch_yarare",
+      "Category": "Combat / karate",
+      "Label": "Punch hit reaction",
+      "NativeIndex": 442
+    },
+    {
+      "Clip": "alm_pyon",
+      "Category": "Jumping",
+      "Label": "Bouncing / springing",
+      "NativeIndex": 309
+    },
+    {
+      "Clip": "alm_rappa",
+      "Category": "Musical instruments",
+      "Label": "Playing trumpet",
+      "NativeIndex": 360
+    },
+    {
+      "Clip": "alm_rism",
+      "Category": "Dance extended",
+      "Label": "Rhythmic movement",
+      "NativeIndex": 120
+    },
+    {
+      "Clip": "alm_rsim_b",
+      "Category": "Dance extended",
+      "Label": "Rhythmic movement B",
+      "NativeIndex": 121
+    },
+    {
+      "Clip": "alm_run",
+      "Category": "Body actions",
+      "Label": "Run animation",
+      "NativeIndex": 119
+    },
+    {
+      "Clip": "alm_run_stopped",
+      "Category": "Core locomotion",
+      "Label": "Running stop",
+      "NativeIndex": 122
+    },
+    {
+      "Clip": "alm_scop",
+      "Category": "Toys / objects",
+      "Label": "Using scope / telescope",
+      "NativeIndex": 229
+    },
+    {
+      "Clip": "alm_seki_suwari",
+      "Category": "Body actions",
+      "Label": "Coughing sitting",
+      "NativeIndex": 244
+    },
+    {
+      "Clip": "alm_seki_tati",
+      "Category": "Body actions",
+      "Label": "Coughing standing",
+      "NativeIndex": 246
+    },
+    {
+      "Clip": "alm_senobi",
+      "Category": "Body actions",
+      "Label": "Standing up startled",
+      "NativeIndex": 457
+    },
+    {
+      "Clip": "alm_sexybeam",
+      "Category": "Body actions",
+      "Label": "Sexy beam pose",
+      "NativeIndex": 617
+    },
+    {
+      "Clip": "alm_sinbal",
+      "Category": "Musical instruments",
+      "Label": "Playing cymbal",
+      "NativeIndex": 363
+    },
+    {
+      "Clip": "alm_sinobi",
+      "Category": "Extended locomotion",
+      "Label": "Sneaking",
+      "NativeIndex": 104
+    },
+    {
+      "Clip": "alm_sit_down",
+      "Category": "Body actions",
+      "Label": "Sitting down normal",
+      "NativeIndex": 80
+    },
+    {
+      "Clip": "alm_sit_dowwwn",
+      "Category": "Body actions",
+      "Label": "Sitting down hard",
+      "NativeIndex": 81
+    },
+    {
+      "Clip": "alm_skippu",
+      "Category": "Extended locomotion",
+      "Label": "Skipping happily",
+      "NativeIndex": 117
+    },
+    {
+      "Clip": "alm_sleep",
+      "Category": "Sleeping",
+      "Label": "Sleeping loop",
+      "NativeIndex": 18
+    },
+    {
+      "Clip": "alm_stand_up",
+      "Category": "Core locomotion",
+      "Label": "Standing up from sitting",
+      "NativeIndex": 82
+    },
+    {
+      "Clip": "alm_sumou",
+      "Category": "Combat / karate",
+      "Label": "Sumo wrestling",
+      "NativeIndex": 299
+    },
+    {
+      "Clip": "alm_suri",
+      "Category": "Body actions",
+      "Label": "Rubbing / nuzzling",
+      "NativeIndex": 400
+    },
+    {
+      "Clip": "alm_suwari_guta",
+      "Category": "Body actions",
+      "Label": "Looking exhausted sitting",
+      "NativeIndex": 94
+    },
+    {
+      "Clip": "alm_suwari_hakusyu",
+      "Category": "Body actions",
+      "Label": "Sitting clapping",
+      "NativeIndex": 573
+    },
+    {
+      "Clip": "alm_suwari_ijike",
+      "Category": "Body actions",
+      "Label": "Sitting sulking",
+      "NativeIndex": 493
+    },
+    {
+      "Clip": "alm_suwaru_akubi_ncz",
+      "Category": "Race / victory",
+      "Label": "Sitting akubi \u2014 baby",
+      "NativeIndex": 596
+    },
+    {
+      "Clip": "alm_suwaru_ncz",
+      "Category": "Race / victory",
+      "Label": "Sitting stance \u2014 baby",
+      "NativeIndex": 593
+    },
+    {
+      "Clip": "alm_suwaru_sleep_ncz",
+      "Category": "Race / victory",
+      "Label": "Sitting sleep \u2014 baby",
+      "NativeIndex": 595
+    },
+    {
+      "Clip": "alm_suwaru_taiki_ncz",
+      "Category": "Race / victory",
+      "Label": "Sitting idle \u2014 baby",
+      "NativeIndex": 597
+    },
+    {
+      "Clip": "alm_suwaru_yarare_l_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Sitting hit large \u2014 baby",
+      "NativeIndex": 600
+    },
+    {
+      "Clip": "alm_suwaru_yarare_m_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Sitting hit medium \u2014 baby",
+      "NativeIndex": 599
+    },
+    {
+      "Clip": "alm_suwaru_yarare_s_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Sitting hit small \u2014 baby",
+      "NativeIndex": 598
+    },
+    {
+      "Clip": "alm_syaberu",
+      "Category": "Social interactions",
+      "Label": "Chatting / babbling",
+      "NativeIndex": 423
+    },
+    {
+      "Clip": "alm_syabon",
+      "Category": "Toys / objects",
+      "Label": "Blowing bubbles",
+      "NativeIndex": 326
+    },
+    {
+      "Clip": "alm_syaburi",
+      "Category": "Body actions",
+      "Label": "Sucking / nursing",
+      "NativeIndex": 1
+    },
+    {
+      "Clip": "alm_syakkuri_suwari",
+      "Category": "Body actions",
+      "Label": "Hiccupping sitting",
+      "NativeIndex": 248
+    },
+    {
+      "Clip": "alm_syakkuri_tati",
+      "Category": "Body actions",
+      "Label": "Hiccupping standing",
+      "NativeIndex": 249
+    },
+    {
+      "Clip": "alm_taberu",
+      "Category": "Eating",
+      "Label": "Eating start",
+      "NativeIndex": 169
+    },
+    {
+      "Clip": "alm_taiki_haihai_ncz",
+      "Category": "Race / victory",
+      "Label": "Crawl idle \u2014 baby",
+      "NativeIndex": 606
+    },
+    {
+      "Clip": "alm_taiki_ncz",
+      "Category": "Race / victory",
+      "Label": "Idle stance \u2014 baby",
+      "NativeIndex": 577
+    },
+    {
+      "Clip": "alm_tail",
+      "Category": "Body actions",
+      "Label": "Tail wagging",
+      "NativeIndex": 575
+    },
+    {
+      "Clip": "alm_taisou",
+      "Category": "Activities",
+      "Label": "Exercising",
+      "NativeIndex": 312
+    },
+    {
+      "Clip": "alm_talk_suwari",
+      "Category": "Social interactions",
+      "Label": "Talking while sitting",
+      "NativeIndex": 425
+    },
+    {
+      "Clip": "alm_talk_tati",
+      "Category": "Social interactions",
+      "Label": "Talking while standing",
+      "NativeIndex": 432
+    },
+    {
+      "Clip": "alm_tambarin",
+      "Category": "Musical instruments",
+      "Label": "Playing tambourine",
+      "NativeIndex": 367
+    },
+    {
+      "Clip": "alm_tameiki",
+      "Category": "Emotional reactions",
+      "Label": "Sighing standing",
+      "NativeIndex": 502
+    },
+    {
+      "Clip": "alm_tameiki_suwari",
+      "Category": "Emotional reactions",
+      "Label": "Sighing sitting",
+      "NativeIndex": 505
+    },
+    {
+      "Clip": "alm_tati",
+      "Category": "Core locomotion",
+      "Label": "Standing idle breathing loop",
+      "NativeIndex": 0
+    },
+    {
+      "Clip": "alm_tati_guta",
+      "Category": "Body actions",
+      "Label": "Looking exhausted standing",
+      "NativeIndex": 490
+    },
+    {
+      "Clip": "alm_tati_hakusyu",
+      "Category": "Emotions / expressions",
+      "Label": "Clapping hands",
+      "NativeIndex": 574
+    },
+    {
+      "Clip": "alm_tati_hima",
+      "Category": "Body actions",
+      "Label": "Bored standing",
+      "NativeIndex": 6
+    },
+    {
+      "Clip": "alm_tati_hura",
+      "Category": "Body actions",
+      "Label": "Flustered standing",
+      "NativeIndex": 488
+    },
+    {
+      "Clip": "alm_tati_motu",
+      "Category": "Social interactions",
+      "Label": "Standing while holding",
+      "NativeIndex": 190
+    },
+    {
+      "Clip": "alm_tati_pori",
+      "Category": "Body actions",
+      "Label": "Standing scratching",
+      "NativeIndex": 49
+    },
+    {
+      "Clip": "alm_tati_suteru",
+      "Category": "Social interactions",
+      "Label": "Throwing away standing",
+      "NativeIndex": 192
+    },
+    {
+      "Clip": "alm_tereru_tati",
+      "Category": "Emotional reactions",
+      "Label": "Embarrassed",
+      "NativeIndex": 554
+    },
+    {
+      "Clip": "alm_terrible",
+      "Category": "Emotional reactions",
+      "Label": "Terrible / horrible feeling",
+      "NativeIndex": 497
+    },
+    {
+      "Clip": "alm_throw",
+      "Category": "Player interaction",
+      "Label": "Thrown / tossed by player",
+      "NativeIndex": 201
+    },
+    {
+      "Clip": "alm_tobiagaru",
+      "Category": "Activities",
+      "Label": "Jump for joy",
+      "NativeIndex": 131
+    },
+    {
+      "Clip": "alm_tobotobo",
+      "Category": "Extended locomotion",
+      "Label": "Trudging sadly",
+      "NativeIndex": 105
+    },
+    {
+      "Clip": "alm_tobu",
+      "Category": "Extended locomotion",
+      "Label": "Flying",
+      "NativeIndex": 130
+    },
+    {
+      "Clip": "alm_togu",
+      "Category": "Toys / objects",
+      "Label": "Sharpening / polishing",
+      "NativeIndex": 288
+    },
+    {
+      "Clip": "alm_ueoyogu",
+      "Category": "Extended locomotion",
+      "Label": "Swimming upward",
+      "NativeIndex": 146
+    },
+    {
+      "Clip": "alm_umareru_kyoro",
+      "Category": "Body actions",
+      "Label": "Hatching \u2014 looking around",
+      "NativeIndex": 205
+    },
+    {
+      "Clip": "alm_umareru_pon",
+      "Category": "Body actions",
+      "Label": "Hatching \u2014 popping out",
+      "NativeIndex": 206
+    },
+    {
+      "Clip": "alm_unazuku",
+      "Category": "Head gestures",
+      "Label": "Nodding agreement",
+      "NativeIndex": 439
+    },
+    {
+      "Clip": "alm_utau",
+      "Category": "Activities",
+      "Label": "Singing",
+      "NativeIndex": 289
+    },
+    {
+      "Clip": "alm_utubuse",
+      "Category": "Sleeping extended",
+      "Label": "Lying face down",
+      "NativeIndex": 24
+    },
+    {
+      "Clip": "alm_waaa",
+      "Category": "Emotional reactions",
+      "Label": "Waaa crying",
+      "NativeIndex": 449
+    },
+    {
+      "Clip": "alm_yarare_back_l_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Hit back large \u2014 baby",
+      "NativeIndex": 587
+    },
+    {
+      "Clip": "alm_yarare_back_m_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Hit back medium \u2014 baby",
+      "NativeIndex": 586
+    },
+    {
+      "Clip": "alm_yarare_back_s_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Hit back small \u2014 baby",
+      "NativeIndex": 585
+    },
+    {
+      "Clip": "alm_yokeru_haihai_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Dodge crawling \u2014 baby",
+      "NativeIndex": 607
+    },
+    {
+      "Clip": "alm_yokeru_l_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Dodge left \u2014 baby",
+      "NativeIndex": 601
+    },
+    {
+      "Clip": "alm_yokeru_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Dodge \u2014 baby",
+      "NativeIndex": 588
+    },
+    {
+      "Clip": "alm_yokeru_r_ncz",
+      "Category": "Hit reactions (karate/baby)",
+      "Label": "Dodge right \u2014 baby",
+      "NativeIndex": 602
+    },
+    {
+      "Clip": "alm_yurasu",
+      "Category": "Body actions",
+      "Label": "Rocking / swaying",
+      "NativeIndex": 211
+    },
+    {
+      "Clip": "alm_yuusyou_ncz",
+      "Category": "Race / victory",
+      "Label": "Victory / winning \u2014 baby",
+      "NativeIndex": 612
+    },
+    {
+      "Clip": "l_okiagari_ncz",
+      "Category": "Other",
+      "Label": "l_okiagari_ncz",
+      "NativeIndex": 604
+    },
+    {
+      "Clip": "m_okiagari_ncz",
+      "Category": "Other",
+      "Label": "m_okiagari_ncz",
+      "NativeIndex": 603
+    }
+  ]
+}
