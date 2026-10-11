@@ -10,9 +10,11 @@ Your Chao can wander along the taskbar, rest, sleep, eat fruit and play. Pick it
 
 ## Screenshots
 
-Screenshots will be added here.
+<img width="2013" height="1507" alt="image" src="https://github.com/user-attachments/assets/cea97f5b-fd5e-4427-ae5d-bf9ebd35be84" />
 
-<!-- Add screenshots here, for example: ![Chao on the desktop](docs/screenshots/desktop.png) -->
+<img width="522" height="300" alt="image" src="https://github.com/user-attachments/assets/37d188ab-0172-430a-b80c-e3602e047794" />
+
+<img width="807" height="267" alt="image" src="https://github.com/user-attachments/assets/e3164e84-55d2-4f2c-8dfa-9f97f624bc17" />
 
 ## Features
 
