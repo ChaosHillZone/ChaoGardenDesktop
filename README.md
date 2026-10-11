@@ -2,7 +2,7 @@
 
 Bring a Chao Garden companion to your Windows desktop.
 
-**ChaoGardenDesktop (DesktopChao) V1** is a free, non-commercial fan project by **ChaosHillZone**. It renders live 3D Chao using the models, textures, palettes and animations from *Sonic Adventure 2 / Battle*, with a smaller simulation designed for life alongside your everyday applications.
+**ChaoGardenDesktop (DesktopChao) V1** is a free, non-commercial fan project. It renders live 3D Chao using the models, textures, palettes and animations from *Sonic Adventure 2 / Battle*, with a smaller simulation designed for life alongside your everyday applications.
 
 Your Chao can wander along the taskbar, rest, sleep, eat fruit and play. Pick it up, place it on a window, give it animal parts or accessories, and keep several independently simulated Chao on screen at once.
 
@@ -34,7 +34,7 @@ Screenshots will be added here.
 ### Requirements
 
 - A Windows x64 PC with a Direct3D 11-capable graphics device.
-- The **portable build** includes the .NET runtime. The smaller **framework-dependent build** requires the **.NET 10 Desktop Runtime for Windows x64**.
+- Requires the **.NET 10 Desktop Runtime for Windows x64** available here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-10.0.12-windows-x64-installer.
 
 ### Run a packaged build
 
@@ -44,8 +44,10 @@ Screenshots will be added here.
 4. Right-click a Chao or its tray icon to open the controls.
 
 On first run, a basic neutral child Chao appears. Later runs load your existing roster. If the Chao was hidden previously, use its tray menu or double-click the tray icon to show it again.
+Note: It may take up to 30 seconds or so to start up and load necessary components.
 
-The app runs independently of SA2 and the full ChaoWorldHD game. SA2 only needs to be running when using process import or synchronization. Models, textures and animation resources are read from `DesktopChao.dat`; saves are stored separately.
+The app runs independently of SA2. SA2 only needs to be running when using process import or synchronization.
+Chao data is stored separate from SA2 - this app does not edit your existing SA2 chao data in any way, shape or form. Only reads it.
 
 ## Controls
 
